@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab4.dir/fileIOs_wordPairs_main.cpp.o CMakeFiles/Lab4.dir/fileIOs_wordPairs.cpp.o  -o Lab4 
