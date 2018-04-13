@@ -8,94 +8,94 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
+				<Option working_dir="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
+				<Option working_dir="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
+				<Option working_dir="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab5">
-				<Option output="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Lab5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
+				<Option output="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Lab5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include-fixed"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab5"/>
-					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab5"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Lab5/fast">
-				<Option output="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Lab5.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
+				<Option output="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Lab5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/x86_64-pc-cygwin"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include/g++-v6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.4.0/include-fixed"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab5/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/ListADT.cpp">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/ListADT.cpp">
 			<Option target="Lab5"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/ListADT.h">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/ListADT.h">
 			<Option target="Lab5"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/VectorADT.cpp">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/VectorADT.cpp">
 			<Option target="Lab5"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/VectorADT.h">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/VectorADT.h">
 			<Option target="Lab5"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/testVectorList.cpp">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/testVectorList.cpp">
 			<Option target="Lab5"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/CMakeLists.txt">
+		<Unit filename="/home/mqduck/Projects/school/CSC340/Lab5/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

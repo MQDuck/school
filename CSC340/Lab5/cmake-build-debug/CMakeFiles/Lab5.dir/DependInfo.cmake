@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/ListADT.cpp" "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/ListADT.cpp.o"
-  "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/VectorADT.cpp" "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/VectorADT.cpp.o"
-  "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/testVectorList.cpp" "/cygdrive/c/Users/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/testVectorList.cpp.o"
+  "/home/mqduck/Projects/school/CSC340/Lab5/ListADT.cpp" "/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/ListADT.cpp.o"
+  "/home/mqduck/Projects/school/CSC340/Lab5/VectorADT.cpp" "/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/VectorADT.cpp.o"
+  "/home/mqduck/Projects/school/CSC340/Lab5/testVectorList.cpp" "/home/mqduck/Projects/school/CSC340/Lab5/cmake-build-debug/CMakeFiles/Lab5.dir/testVectorList.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

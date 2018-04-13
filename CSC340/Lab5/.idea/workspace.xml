@@ -12,52 +12,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5bf53f2-a013-4afc-a526-3d4ead5a0065" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Lab5.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/mqduck.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ListADT.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ListADT.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VectorADT.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/VectorADT.h" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeRCCompiler.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/DependInfo.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/build.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/cmake_clean.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/depend.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/flags.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/link.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/progress.make" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab5.cbp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/testVectorList.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ListADT.cpp" afterPath="$PROJECT_DIR$/ListADT.cpp" />
+      <change beforePath="$PROJECT_DIR$/ListADT.h" afterPath="$PROJECT_DIR$/ListADT.h" />
+      <change beforePath="$PROJECT_DIR$/VectorADT.cpp" afterPath="$PROJECT_DIR$/VectorADT.cpp" />
+      <change beforePath="$PROJECT_DIR$/VectorADT.h" afterPath="$PROJECT_DIR$/VectorADT.h" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeRCCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab5.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab5.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab5.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/testVectorList.cpp" afterPath="$PROJECT_DIR$/testVectorList.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,8 +71,8 @@
       <file leaf-file-name="testVectorList.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -95,23 +83,26 @@
       <file leaf-file-name="VectorADT.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VectorADT.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#52#70#0" expanded="true" />
-                <element signature="e#118#130#0" expanded="true" />
-                <element signature="e#1020#1032#0" expanded="true" />
-                <element signature="e#1226#1238#0" expanded="true" />
-                <element signature="e#1577#1589#0" expanded="true" />
-                <element signature="e#1711#1723#0" expanded="true" />
-                <element signature="e#2038#2050#0" expanded="true" />
-                <element signature="e#2210#2222#0" expanded="true" />
-                <element signature="e#2384#2396#0" expanded="true" />
-                <element signature="e#2547#2559#0" expanded="true" />
-                <element signature="e#2645#2657#0" expanded="true" />
-                <element signature="e#3026#3038#0" expanded="true" />
-                <element signature="e#3113#3125#0" expanded="true" />
-                <element signature="e#3211#3223#0" expanded="true" />
+                <element signature="e#137#149#0" expanded="true" />
+                <element signature="e#1214#1226#0" expanded="true" />
+                <element signature="e#1420#1432#0" expanded="true" />
+                <element signature="e#1929#1941#0" expanded="true" />
+                <element signature="e#2203#2215#0" expanded="true" />
+                <element signature="e#2337#2349#0" expanded="true" />
+                <element signature="e#2453#2465#0" expanded="true" />
+                <element signature="e#2780#2792#0" expanded="true" />
+                <element signature="e#2952#2964#0" expanded="true" />
+                <element signature="e#3126#3138#0" expanded="true" />
+                <element signature="e#3289#3301#0" expanded="true" />
+                <element signature="e#3387#3399#0" expanded="true" />
+                <element signature="e#3538#3550#0" expanded="true" />
+                <element signature="e#3919#3931#0" expanded="true" />
+                <element signature="e#4006#4018#0" expanded="true" />
+                <element signature="e#4104#4116#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +111,8 @@
       <file leaf-file-name="VectorADT.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,9 +121,22 @@
       <file leaf-file-name="ListADT.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ListADT.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="1095">
+              <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+              <folding>
+                <element signature="e#47#65#0" expanded="true" />
+                <element signature="e#94#106#0" expanded="true" />
+                <element signature="e#1028#1040#0" expanded="true" />
+                <element signature="e#1208#1220#0" expanded="true" />
+                <element signature="e#1442#1454#0" expanded="true" />
+                <element signature="e#1689#1701#0" expanded="true" />
+                <element signature="e#1844#1856#0" expanded="true" />
+                <element signature="e#2065#2077#0" expanded="true" />
+                <element signature="e#2321#2333#0" expanded="true" />
+                <element signature="e#2508#2520#0" expanded="true" />
+                <element signature="e#2700#2712#0" expanded="true" />
+                <element signature="e#2867#2879#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,9 +156,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>VectorADT</find>
+      <find>operator=</find>
+      <find>memmove</find>
+      <find>push_back</find>
+      <find>operator</find>
+      <find>VectorADTTemplate</find>
+      <find>seek</find>
+      <find>operator&lt;&lt;</find>
+      <find>length</find>
     </findStrings>
     <replaceStrings>
       <replace>VectorADTTemplate</replace>
+      <replace>VectorADT</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -163,13 +176,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ListADT.cpp" />
-        <option value="$PROJECT_DIR$/ListADT.h" />
         <option value="$PROJECT_DIR$/VectorADTTemplate.h" />
         <option value="$PROJECT_DIR$/VectorADTTemplate.cpp" />
         <option value="$PROJECT_DIR$/VectorADT.cpp" />
-        <option value="$PROJECT_DIR$/testVectorList.cpp" />
         <option value="$PROJECT_DIR$/VectorADT.h" />
+        <option value="$PROJECT_DIR$/ListADT.cpp" />
+        <option value="$PROJECT_DIR$/ListADT.h" />
+        <option value="$PROJECT_DIR$/testVectorList.cpp" />
       </list>
     </option>
   </component>
@@ -217,6 +230,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,7 +245,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Lab5">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab5" RUN_TARGET_NAME="Lab5" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
     <configuration name="Lab5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab5" TARGET_NAME="Lab5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab5" RUN_TARGET_NAME="Lab5">
@@ -254,34 +268,39 @@
       <updated>1523518977441</updated>
       <workItem from="1523518978588" duration="72000" />
       <workItem from="1523519150123" duration="6362000" />
+      <workItem from="1523550766814" duration="508000" />
+      <workItem from="1523557405991" duration="8753000" />
+      <workItem from="1523614019722" duration="4887000" />
+      <workItem from="1523653667056" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6434000" />
+    <option name="totallyTimeSpent" value="20631000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="613" y="-12" width="1602" height="851" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26251605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39834026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -293,11 +312,342 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/testVectorList.cpp</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#52#70#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="25" lean-forward="false" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="e#52#70#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="37" lean-forward="false" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#52#70#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#52#70#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListADT.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -320,19 +670,22 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#52#70#0" expanded="true" />
-            <element signature="e#118#130#0" expanded="true" />
-            <element signature="e#1020#1032#0" expanded="true" />
-            <element signature="e#1226#1238#0" expanded="true" />
-            <element signature="e#1577#1589#0" expanded="true" />
-            <element signature="e#1711#1723#0" expanded="true" />
-            <element signature="e#2038#2050#0" expanded="true" />
-            <element signature="e#2210#2222#0" expanded="true" />
-            <element signature="e#2384#2396#0" expanded="true" />
-            <element signature="e#2547#2559#0" expanded="true" />
-            <element signature="e#2645#2657#0" expanded="true" />
-            <element signature="e#3026#3038#0" expanded="true" />
-            <element signature="e#3113#3125#0" expanded="true" />
-            <element signature="e#3211#3223#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -349,7 +702,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -371,7 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ListADT.h">
+    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -387,41 +753,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VectorADT.cpp">
+    <entry file="file://$PROJECT_DIR$/ListADT.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1095">
+          <caret line="73" column="32" lean-forward="false" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+            <element signature="e#94#106#0" expanded="true" />
+            <element signature="e#1028#1040#0" expanded="true" />
+            <element signature="e#1208#1220#0" expanded="true" />
+            <element signature="e#1442#1454#0" expanded="true" />
+            <element signature="e#1689#1701#0" expanded="true" />
+            <element signature="e#1844#1856#0" expanded="true" />
+            <element signature="e#2065#2077#0" expanded="true" />
+            <element signature="e#2321#2333#0" expanded="true" />
+            <element signature="e#2508#2520#0" expanded="true" />
+            <element signature="e#2700#2712#0" expanded="true" />
+            <element signature="e#2867#2879#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VectorADT.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#52#70#0" expanded="true" />
-            <element signature="e#118#130#0" expanded="true" />
-            <element signature="e#1020#1032#0" expanded="true" />
-            <element signature="e#1226#1238#0" expanded="true" />
-            <element signature="e#1577#1589#0" expanded="true" />
-            <element signature="e#1711#1723#0" expanded="true" />
-            <element signature="e#2038#2050#0" expanded="true" />
-            <element signature="e#2210#2222#0" expanded="true" />
-            <element signature="e#2384#2396#0" expanded="true" />
-            <element signature="e#2547#2559#0" expanded="true" />
-            <element signature="e#2645#2657#0" expanded="true" />
-            <element signature="e#3026#3038#0" expanded="true" />
-            <element signature="e#3113#3125#0" expanded="true" />
-            <element signature="e#3211#3223#0" expanded="true" />
+            <element signature="e#137#149#0" expanded="true" />
+            <element signature="e#1214#1226#0" expanded="true" />
+            <element signature="e#1420#1432#0" expanded="true" />
+            <element signature="e#1929#1941#0" expanded="true" />
+            <element signature="e#2203#2215#0" expanded="true" />
+            <element signature="e#2337#2349#0" expanded="true" />
+            <element signature="e#2453#2465#0" expanded="true" />
+            <element signature="e#2780#2792#0" expanded="true" />
+            <element signature="e#2952#2964#0" expanded="true" />
+            <element signature="e#3126#3138#0" expanded="true" />
+            <element signature="e#3289#3301#0" expanded="true" />
+            <element signature="e#3387#3399#0" expanded="true" />
+            <element signature="e#3538#3550#0" expanded="true" />
+            <element signature="e#3919#3931#0" expanded="true" />
+            <element signature="e#4006#4018#0" expanded="true" />
+            <element signature="e#4104#4116#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testVectorList.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
